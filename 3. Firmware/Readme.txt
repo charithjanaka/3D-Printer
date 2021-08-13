@@ -1,0 +1,1 @@
+Marlin Firmware version 2.0 is used in this project. This is the reconfigured Marlin firmware for SKR-V1.4 mainboard. 

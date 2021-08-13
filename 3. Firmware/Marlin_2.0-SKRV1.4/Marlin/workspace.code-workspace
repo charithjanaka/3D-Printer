@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\Assignment 2\\SuperGluePretrainedNetwork-master"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\..\\Marlin-2.0.x"
+		},
+		{
+			"path": "..\\..\\..\\..\\Marlin-bugfix-2.0.x"
+		}
+	],
+	"settings": {}
+}

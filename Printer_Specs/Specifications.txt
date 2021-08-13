@@ -1,7 +1,0 @@
-Category: Core-XY
-Print Volume: 210 x 210 x 300 mm
-Supply Voltage: 12V
-Mainboard: Bigtreetech SKRV1.4
-Firmware: Marlin 2.0
-Filament Diameter: 1.75 mm
-Approximate Cost: 30000 LKR
